@@ -1,0 +1,20 @@
+======== Question 1.6.1 (power = 2) ========
+dimensionality of the model parameter is 23.
+MAE on train is 0.56777
+MAE on val is 0.57459
+MAE on test is 0.57865
+======== Question 1.6.1 (power = 3) ========
+dimensionality of the model parameter is 34.
+MAE on train is 0.56318
+MAE on val is 0.58117
+MAE on test is 0.58448
+======== Question 1.6.1 (power = 4) ========
+dimensionality of the model parameter is 45.
+MAE on train is 0.56024
+MAE on val is 0.58280
+MAE on test is 1.27799
+======== Question 1.6.1 (power = 5) ========
+dimensionality of the model parameter is 56.
+MAE on train is 0.55637
+MAE on val is 0.57013
+MAE on test is 4.99187

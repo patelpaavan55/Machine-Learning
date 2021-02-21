@@ -1,0 +1,110 @@
+======== Question 1.6.2 (power = higher)========
+if your maaping function is correct, simplely change the 'power' value to see how MSE change when 'power' changes
+(4399, 11) (4399, 22)
+best lambd is 1e-05
+when power = 2
+MAE on train is 0.56777
+MAE on val is 0.57459
+MAE on test is 0.57865
+(4399, 11) (4399, 33)
+best lambd is 0.0001
+when power = 3
+MAE on train is 0.56318
+MAE on val is 0.58117
+MAE on test is 0.58448
+(4399, 11) (4399, 44)
+best lambd is 0.0001
+when power = 4
+MAE on train is 0.56024
+MAE on val is 0.58280
+MAE on test is 1.27799
+(4399, 11) (4399, 55)
+best lambd is 0.01
+when power = 5
+MAE on train is 0.55637
+MAE on val is 0.57013
+MAE on test is 4.99187
+(4399, 11) (4399, 66)
+best lambd is 0.001
+when power = 6
+MAE on train is 0.55415
+MAE on val is 0.59192
+MAE on test is 21.04535
+(4399, 11) (4399, 77)
+best lambd is 0.1
+when power = 7
+MAE on train is 0.55444
+MAE on val is 0.58118
+MAE on test is 115.07542
+(4399, 11) (4399, 88)
+best lambd is 1000000
+when power = 8
+MAE on train is 0.58763
+MAE on val is 0.63641
+MAE on test is 237.87902
+(4399, 11) (4399, 99)
+best lambd is 100000
+when power = 9
+MAE on train is 0.58782
+MAE on val is 0.70184
+MAE on test is 1220.89806
+(4399, 11) (4399, 110)
+best lambd is 10000000
+when power = 10
+MAE on train is 0.58860
+MAE on val is 0.62673
+MAE on test is 13972.48716
+(4399, 11) (4399, 121)
+best lambd is 100000000
+when power = 11
+MAE on train is 0.88383
+MAE on val is 1.06219
+MAE on test is 50675.35031
+(4399, 11) (4399, 132)
+best lambd is 10000000000000
+when power = 12
+MAE on train is 0.87885
+MAE on val is 4.51367
+MAE on test is 135426.59468
+(4399, 11) (4399, 143)
+best lambd is 100000000000000000
+when power = 13
+MAE on train is 11.21626
+MAE on val is 19.98763
+MAE on test is 624015.16342
+(4399, 11) (4399, 154)
+best lambd is 1000000000000
+when power = 14
+MAE on train is 29.66487
+MAE on val is 30.78800
+MAE on test is 20931343.68039
+(4399, 11) (4399, 165)
+best lambd is 10000000000000000
+when power = 15
+MAE on train is 27.15967
+MAE on val is 41.86677
+MAE on test is 36825486.65198
+(4399, 11) (4399, 176)
+best lambd is 100000000000000000
+when power = 16
+MAE on train is 52.74744
+MAE on val is 110.24384
+MAE on test is 72884860.07642
+(4399, 11) (4399, 187)
+best lambd is 100000
+when power = 17
+MAE on train is 103.38478
+MAE on val is 154.93609
+MAE on test is 818706115.15322
+(4399, 11) (4399, 198)
+best lambd is 100000000000000000
+when power = 18
+MAE on train is 387.77977
+MAE on val is 412.64662
+MAE on test is 1155520236.58762
+(4399, 11) (4399, 209)
+best lambd is 100000000000000000
+when power = 19
+MAE on train is 756.48248
+MAE on val is 1160.68067
+MAE on test is 8869063290.81739
